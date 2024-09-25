@@ -1,0 +1,982 @@
+.fotoAtas {
+    left: 42%;
+    position: absolute;
+    width: 200px;
+    height: 58px;
+    margin-top: 25px;
+    z-index: 10;
+}
+
+.navbar-brand {
+    position: absolute;
+}
+
+.alasFoto {
+    background-color: rgba(235, 235, 235, 0.893);
+    height: 90px;
+}
+
+.palingAtas {
+    height: 115px;
+    background-color: rgba(235, 235, 235, 0.893);
+    position: relative;
+}
+
+.bawahNavbar {
+    background-color: rgb(210, 208, 208);
+    height: 100px;
+    width: 1300px;
+    position: absolute;
+    margin-top: 60px;
+}
+
+.navbarPalingAtas {
+    height: 60px;
+    background-color: rgba(235, 235, 235, 0.893);
+}
+
+.teksBawahNavbar {
+    margin-left: 35px;
+    padding-top: 45px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+
+#ortu {
+    position: relative;
+}
+
+#badan {
+    position: relative;
+}
+
+.hilang {
+    display: none;
+}
+
+nav {
+    z-index: 10;
+}
+
+.navbarScroll {
+    background-color: rgba(235, 235, 235, 0.893);
+    max-height: 52px;
+}
+
+.tab img {
+    height: auto !important;
+    width: 50px !important;
+}
+
+.tingkat2 {
+    position: absolute;
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+.lapisan2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+}
+
+.spasiBawahNavbar {
+    height: 60px;
+    padding-top: 200px;
+    background-color: red;
+    background-color: rgba(235, 235, 235, 0.893);
+}
+
+body {
+    background-color: rgba(235, 235, 235, 0.893);
+}
+
+.halamanKanan {
+    height: 2350px;
+    padding-right: 0 !important;
+}
+
+.col-md-3 {
+    padding-left: 0 !important;
+}
+
+.kategori {
+    background-color: gray;
+    margin-left: 30px;
+    height: 50px;
+    width: 220px;
+}
+
+.hitamKategori {
+    height: 45px;
+    width: 220px;
+    background-color: rgba(52, 58, 64, 1);
+}
+
+.hurufKategori {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: white;
+    font: bold;
+    padding-left: 14px;
+    padding-top: 8px;
+}
+
+.sidebarrr {
+    margin-left: 45px;
+}
+
+.sub3 {
+    display: none;
+}
+
+.sub4 {
+    display: none;
+}
+
+.sub5 {
+    display: none;
+}
+
+.sub6 {
+    display: none;
+}
+
+.sub8 {
+    display: none;
+}
+
+.sub9 {
+    display: none;
+}
+
+.sub10 {
+    display: none;
+}
+
+.sub11 {
+    display: none;
+}
+
+.sidebarrr .menu {
+    position: relative;
+}
+
+.drop {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    top: 0;
+}
+
+.menu3 {
+    width: 204px;
+    position: relative;
+}
+
+.menu4 {
+    width: 204px;
+    position: relative;
+}
+
+.menu5 {
+    width: 204px;
+    position: relative;
+}
+
+.menu6 {
+    width: 204px;
+    position: relative;
+}
+
+.menu8 {
+    width: 204px;
+    position: relative;
+}
+
+.menu9 {
+    width: 204px;
+    position: relative;
+}
+
+.menu10 {
+    width: 204px;
+    position: relative;
+}
+
+.menu11 {
+    width: 204px;
+    position: relative;
+}
+
+.kotakGambar {
+    width: 900px;
+    height: 180px;
+    overflow: hidden;
+    background-color: red;
+    top: 50%;
+    left: 50%;
+    background-image: url(../Gambar/mouse.png);
+    background-position: center;
+    filter: brightness(80%);
+    filter: blur(5px);
+    z-index: 2;
+}
+
+.lapisanGelap {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    width: 900px;
+    height: 180px;
+}
+
+.teksGambar {
+    position: absolute;
+    z-index: 3;
+    margin-left: 268px;
+    margin-top: 60px;
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    color: white;
+    letter-spacing: 5px;
+    border: 4px solid white;
+    width: 360px;
+    height: 70px;
+}
+
+.teksGambar2 {
+    margin-top: 6px;
+    margin-left: 15px;
+}
+
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+.refineSearch {
+    font-size: 38px;
+    font-weight: bold;
+    margin-top: 15px;
+    text-align: left;
+}
+
+.gambar1 {
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    text-align: center;
+}
+
+.gambar2 {
+    width: 120px;
+    height: 140px;
+    margin-left: 130px;
+    position: absolute;
+    text-align: center;
+}
+
+.gambar3 {
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    margin-left: 260px;
+    text-align: center;
+}
+
+.col1 {
+    display: inline-block;
+}
+
+.col2 {
+    display: inline-block;
+}
+
+.kotak {
+    margin-top: 170px;
+    padding-left: 8px;
+    padding-top: 7px;
+    position: absolute;
+    background-color: grey;
+    width: 36px;
+    height: 36px;
+    border-radius: 7px;
+}
+
+.panjang {
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 45px;
+    width: 36px;
+    height: 36px;
+    padding-left: 8px;
+    padding-top: 7px;
+    border: 1px solid gray;
+    border-radius: 7px;
+}
+
+.option {
+    border: 1px black;
+}
+
+.alasGambar {
+    background-color: blue;
+    width: fit-content;
+    height: fit-content;
+}
+.row{
+    margin-right: 0px !important;
+    width: 1250px !important;
+}
+.sort {
+    margin-left: 550px;
+    margin-top: 180px;
+    position: absolute;
+    font-size: 14px;
+}
+
+.form-control-sm {
+    border: 0px solid white;
+    width: 140px;
+}
+
+.result {
+    margin-left: 750px;
+    margin-top: 180px;
+    position: absolute;
+    font-size: 14px;
+}
+.banyak{
+    width: 60px;
+}
+
+.daftarBarang {
+    margin-top: 230px;
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+/* dari sini buat 1 list */
+.list1 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+}
+
+.barang {
+    width: 230px;
+    height: 230px;
+}
+
+.harga {
+    width: 230px;
+    height: 150px;
+    position: absolute;
+    overflow: hidden;
+    text-align: center;
+}
+
+.normal1,
+.hover1 {
+    position: absolute;
+    transition: opacity 0.3s ease;
+}
+
+.hover1 {
+    opacity: 0;
+}
+
+.list1:hover .normal1 {
+    opacity: 0;
+}
+
+.list1:hover .hover1 {
+    opacity: 1;
+}
+
+.list1:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.harga1 {
+    position: absolute;
+    background-color: white;
+    width: 230px;
+    height: 150px;
+    text-align: center;
+    padding-top: 70px;
+    bottom: -160px;
+    transition: transform 0.1s ease;
+}
+
+.list1:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.teksHarga {
+    border: 1px solid black;
+    width: 160px;
+    margin-left: 35px;
+}
+
+.gambarCart {
+    padding-bottom: 5px;
+
+}
+
+/* sampai sini */
+
+.list2 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 240px;
+}
+
+.list2:hover .normal1 {
+    opacity: 0;
+}
+
+.list2:hover .hover1 {
+    opacity: 1;
+}
+
+.list2:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list2:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list3 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 480px;
+}
+
+.list3:hover .normal1 {
+    opacity: 0;
+}
+
+.list3:hover .hover1 {
+    opacity: 1;
+}
+
+.list3:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list3:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list4 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 720px;
+}
+
+.list4:hover .normal1 {
+    opacity: 0;
+}
+
+.list4:hover .hover1 {
+    opacity: 1;
+}
+
+.list4:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list4:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list5 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-top: 380px;
+}
+
+.list5:hover .normal1 {
+    opacity: 0;
+}
+
+.list5:hover .hover1 {
+    opacity: 1;
+}
+
+.list5:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list5:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.list6 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 380px;
+}
+
+.list6:hover .normal1 {
+    opacity: 0;
+}
+
+.list6:hover .hover1 {
+    opacity: 1;
+}
+
+.list6:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list6:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list7 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 380px;
+}
+
+.list7:hover .normal1 {
+    opacity: 0;
+}
+
+.list7:hover .hover1 {
+    opacity: 1;
+}
+
+.list7:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list7:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list8 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 380px;
+}
+
+.list8:hover .normal1 {
+    opacity: 0;
+}
+
+.list8:hover .hover1 {
+    opacity: 1;
+}
+
+.list8:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list8:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list9 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-top: 760px;
+}
+
+.list9:hover .normal1 {
+    opacity: 0;
+}
+
+.list9:hover .hover1 {
+    opacity: 1;
+}
+
+.list9:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list9:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.list10 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 760px;
+}
+
+.list10:hover .normal1 {
+    opacity: 0;
+}
+
+.list10:hover .hover1 {
+    opacity: 1;
+}
+
+.list10:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list10:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list11 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 760px;
+}
+
+.list11:hover .normal1 {
+    opacity: 0;
+}
+
+.list11:hover .hover1 {
+    opacity: 1;
+}
+
+.list11:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list11:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.list12 {
+    height: 360px;
+    width: 230px;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 760px;
+}
+
+.list12:hover .normal1 {
+    opacity: 0;
+}
+
+.list12:hover .hover1 {
+    opacity: 1;
+}
+
+.list12:hover .harga1 {
+    transform: translateY(-100%);
+}
+
+.list12:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.hargaa {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 80px;
+}
+
+.namaBarang {
+    position: absolute;
+    top: 21px;
+    width: 230px;
+}
+
+.karosel {
+    margin-top: 1360px;
+    position: relative;
+}
+
+.col-md-3 {
+    width: 300px !important;
+    max-width: 21%;
+}
+
+a {
+    text-decoration: none !important;
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+footer {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+}
+
+.form-group {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+
+}
+
+.btn,
+.btn-primary {
+    background-color: #f5f5f5 !important;
+    border: 1px solid #f5f5f5;
+    color: #bdbbbb;
+}
+
+.copyright {
+    background-color: black;
+    color: rgba(255, 220, 0, 1);
+    height: 51px;
+    padding-top: 18px;
+}
+
+.copyrightKiri {
+    width: 440px;
+    position: absolute;
+}
+
+.copyrightKanan {
+    width: 20%;
+    margin-left: 970px;
+}
+
+.listHarga {
+    padding-top: 22px;
+}
+
+li {
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+
+li:hover a {
+    text-decoration: none;
+}
+
+.logoWa {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    opacity: 1;
+    background-color: white;
+    z-index: 3;
+}
+
+.logomsgr {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity: 1;
+    background-color: white;
+    z-index: 3;
+}
+
+.navbartetap {
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    top: -50px;
+}
+
+.navbar-collapse {
+    width: 100px;
+    height: 52px;
+    justify-content: center;
+}
+
+.nav-item {
+    margin-right: 37px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    opacity: 1;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.nav-item:hover {
+    background-color: rgba(255, 220, 0, 1);
+}
+
+.dropdown-item:hover {
+    background-color: rgba(255, 220, 0, 1);
+}
+
+.navbarh {
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+
+}
+
+.navbar-nav {
+    height: 52px;
+}
+
+.nav-link {
+    padding-top: 18px;
+}
+
+.dropdown-menu {
+    opacity: 0.9;
+}
+
+.dropdown-item {
+    opacity: 1;
+    font-weight: bold;
+    color: black;
+}
+li{
+    padding: 2px;
+}
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+}
+
+.divAlas3 {
+    justify-content: right;
+    width: 100px;
+    position: absolute;
+    right: 0;
+    margin-top: 30px;
+    margin-right: 75px;
+}
+
+.divAlas3 a {
+    margin-left: 5px;
+}
+
+.divAlas3 a:hover .material-icons {
+    color: rgba(255, 220, 0, 1);
+}
+
+.divAlas3 a:hover {
+    text-decoration: none;
+}
+
+.divAlas3hilang {
+    justify-content: right;
+    width: 100px;
+    position: absolute;
+    right: 0;
+    margin-top: 15px;
+    margin-right: 35px;
+}
+
+.divAlas3hilang a {
+    margin-left: 5px;
+}
+
+.divAlas3hilang a:hover .material-icons {
+    color: rgba(255, 220, 0, 1);
+}
+
+.divAlas3hilang a:hover {
+    text-decoration: none;
+}
+
+.konten {
+    width: 1200px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lapisanBawah {
+    margin-top: 300px;
+}
+
+.fotoBrand{
+    margin-left: 20px;
+}
+
+.material-symbols-outlined {
+    font-size: 16px !important;
+    height: 24px;
+    width: 16px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 20
+}
+
+.tambah{
+    position: absolute;
+}
+.kurang{
+    opacity: 0;
+}
